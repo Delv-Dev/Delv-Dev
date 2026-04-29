@@ -10,7 +10,7 @@ I'm Delvin Susilo, a Game Application & Technology undergraduate at BINUS Univer
 ---
 
 ## 🎮 Highlight Projects
-### 🧠 Room For One More
+### Room For One More
 [![Watch Gameplay](https://img.youtube.com/vi/PWDsKXZQcaM/0.jpg)](https://youtu.be/PWDsKXZQcaM)
 
 A cozy game about limited space, limited money, and unlimited demands. 
@@ -20,7 +20,7 @@ A cozy game about limited space, limited money, and unlimited demands.
 
 ---
 
-### ⚡ Butt Pressure
+### Butt Pressure
 Under Pressure 
 - **Role:** Game Designer  
 - **Tools:** Unity  
