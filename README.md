@@ -27,8 +27,10 @@
       <p><sub>MY FOCUS<br>Concept · Core loop · Resource constraints</sub></p>
       <p><strong>Unity</strong> · 7 days</p>
       <p>
-        <a href="https://maximillian520.itch.io/room-for-one-more"><strong>Play on itch.io ↗</strong></a>
-      </p>
+      <a href="https://maximillian520.itch.io/room-for-one-more">
+        <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="32" height="32" alt="Play Room for One More on itch.io" title="Play on itch.io">
+      </a>
+    </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://natookie.itch.io/carccident">
@@ -40,8 +42,10 @@
       <p><sub>MY FOCUS<br>Core loop · Scoring · UI/HUD</sub></p>
       <p><strong>Unity</strong> · 5 days</p>
       <p>
-        <a href="https://natookie.itch.io/carccident"><strong>Play on itch.io ↗</strong></a>
-      </p>
+      <a href="https://natookie.itch.io/carccident">
+        <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="32" height="32" alt="Play Carccident on itch.io" title="Play on itch.io">
+      </a>
+    </p>
     </td>
   </tr>
   <tr>
@@ -55,8 +59,10 @@
       <p><sub>MY FOCUS<br>Gameplay systems · HUD feedback · Polish</sub></p>
       <p><strong>Unity</strong> · 5 days*</p>
       <p>
-        <a href="https://dupow.itch.io/aid"><strong>Play on itch.io ↗</strong></a>
-      </p>
+      <a href="https://dupow.itch.io/aid">
+        <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="32" height="32" alt="Play A.I.D on itch.io" title="Play on itch.io">
+      </a>
+    </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://dupow.itch.io/butt-pressure">
@@ -68,8 +74,10 @@
       <p><sub>MY FOCUS<br>Minigames · Poop meter · Font & SFX sourcing</sub></p>
       <p><strong>Unity</strong> · 4 days</p>
       <p>
-        <a href="https://dupow.itch.io/butt-pressure"><strong>Play on itch.io ↗</strong></a>
-      </p>
+      <a href="https://dupow.itch.io/butt-pressure">
+        <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="32" height="32" alt="Play Butt Pressure on itch.io" title="Play on itch.io">
+      </a>
+    </p>
     </td>
   </tr>
 </table>
