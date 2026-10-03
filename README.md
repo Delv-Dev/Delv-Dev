@@ -5,68 +5,76 @@
 </p>
 
 <p align="center">
-  I like asking what a game’s rules make players do—and whether that’s the experience we intended.<br>
-  I explore that question through gameplay loops, resource systems, and collaborative iteration.
+  I explore how game rules shape player decisions.<br>
+  My work focuses on gameplay loops, connected systems, and collaborative iteration.
 </p>
 
 <p align="center">
   <sub>Game Application & Technology student at BINUS University</sub>
 </p>
 
-<br>
-
 <h2>Selected Games</h2>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <a href="https://maximillian520.itch.io/room-for-one-more">
-        <img src="./RoomForOneMore.gif" width="440" alt="Room for One More gameplay">
+        <img src="./RoomForOneMore.gif" width="100%" alt="Room for One More gameplay">
       </a>
       <h3>Room for One More</h3>
-      <p><em>A small room. A tight budget. One more request.</em></p>
-      <p>Purchase and arrange furniture to fulfill a grandmother’s requests without running out of space or money.</p>
-      <p><sub>MY FOCUS · Concept, core loop & resource constraints</sub></p>
-      <p><strong>Unity</strong> &nbsp; / &nbsp; 7 days</p>
-      <p><a href="https://maximillian520.itch.io/room-for-one-more"><strong>Play on itch.io ↗</strong></a></p>
+      <p><em>A small room. One more request.</em></p>
+      <p>Arrange furniture to fulfill a grandmother’s requests within limited space and a tight budget.</p>
+      <p><sub>MY FOCUS<br>Concept · Core loop · Resource constraints</sub></p>
+      <p><strong>Unity</strong> · 7 days</p>
+      <p>
+        <a href="https://maximillian520.itch.io/room-for-one-more"><strong>Play on itch.io ↗</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://natookie.itch.io/carccident">
-        <img src="./Carccident.gif" width="440" alt="Carccident gameplay">
+        <img src="./Carccident.gif" width="100%" alt="Carccident gameplay">
       </a>
       <h3>Carccident</h3>
-      <p><em>Keep traffic moving. Patience won’t last forever.</em></p>
-      <p>Control traffic lights and prevent collisions as impatient drivers begin taking matters into their own hands.</p>
-      <p><sub>MY FOCUS · Core loop, scoring & UI/HUD</sub></p>
-      <p><strong>Unity</strong> &nbsp; / &nbsp; 5 days</p>
-      <p><a href="https://natookie.itch.io/carccident"><strong>Play on itch.io ↗</strong></a></p>
+      <p><em>Patience won’t last forever.</em></p>
+      <p>Control traffic lights and prevent collisions as impatient drivers begin running red lights.</p>
+      <p><sub>MY FOCUS<br>Core loop · Scoring · UI/HUD</sub></p>
+      <p><strong>Unity</strong> · 5 days</p>
+      <p>
+        <a href="https://natookie.itch.io/carccident"><strong>Play on itch.io ↗</strong></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://dupow.itch.io/aid">
-        <img src="./AID-gameplay.gif" width="440" alt="A.I.D gameplay">
+        <img src="./AID-gameplay.gif" width="100%" alt="A.I.D gameplay">
       </a>
       <h3>A.I.D</h3>
-      <p><em>You can’t die. The city isn’t so lucky.</em></p>
-      <p>Face Martin through changing boss phases, managing your energy and support drone while defending the city.</p>
-      <p><sub>MY FOCUS · Gameplay systems & post-jam polish</sub></p>
-      <p><strong>Unity</strong> &nbsp; / &nbsp; 5-day jam + further polish</p>
-      <p><a href="https://dupow.itch.io/aid"><strong>Play on itch.io ↗</strong></a></p>
+      <p><em>You can’t die. The city can fall.</em></p>
+      <p>Defend a city through changing boss phases while managing energy and coordinating with a support drone.</p>
+      <p><sub>MY FOCUS<br>Gameplay systems · HUD feedback · Polish</sub></p>
+      <p><strong>Unity</strong> · 5 days*</p>
+      <p>
+        <a href="https://dupow.itch.io/aid"><strong>Play on itch.io ↗</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://dupow.itch.io/butt-pressure">
-        <img src="./ButtPressure.gif" width="440" alt="Butt Pressure gameplay">
+        <img src="./ButtPressure.gif" width="100%" alt="Butt Pressure gameplay">
       </a>
       <h3>Butt Pressure</h3>
       <p><em>A different kind of pressure.</em></p>
-      <p>A team game jam project featuring minigame challenges and a poop meter, with my work focused on those mechanics.</p>
-      <p><sub>MY FOCUS · Minigame design, poop meter & supporting audio/fonts</sub></p>
-      <p><strong>Unity</strong> &nbsp; / &nbsp; 4 days</p>
-      <p><a href="https://dupow.itch.io/butt-pressure"><strong>Play on itch.io ↗</strong></a></p>
+      <p>A team game jam project featuring minigame challenges and a poop meter, with my design work focused on those elements.</p>
+      <p><sub>MY FOCUS<br>Minigames · Poop meter · Font & SFX sourcing</sub></p>
+      <p><strong>Unity</strong> · 4 days</p>
+      <p>
+        <a href="https://dupow.itch.io/butt-pressure"><strong>Play on itch.io ↗</strong></a>
+      </p>
     </td>
   </tr>
 </table>
+
+<p><sub>*A.I.D received additional post-jam gameplay and presentation polish.</sub></p>
 
 <h3 align="center">Let’s talk games.</h3>
 
