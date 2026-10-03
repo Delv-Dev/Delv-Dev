@@ -68,32 +68,6 @@
   </tr>
 </table>
 
-<br>
-
-<h2>How I Think About Design</h2>
-
-<p>
-  <strong>Make the constraints matter.</strong><br>
-  In Room for One More, I proposed limiting furniture sales to preserve the challenge of working within a crowded room.
-</p>
-
-<p>
-  <strong>Give each rule a reason.</strong><br>
-  In Carccident, I questioned why opposing traffic had to take turns when its paths didn’t intersect.
-</p>
-
-<p>
-  <strong>Connect mechanics to the stakes.</strong><br>
-  In A.I.D, an invulnerable player shifts the focus toward protecting the city, managing energy, and responding to boss threats.
-</p>
-
-<p>
-  <sub>CORE STRENGTHS · Gameplay loops · Systems thinking · Collaborative iteration · UI/HUD feedback</sub>
-</p>
-
-<br>
-<hr>
-
 <h3 align="center">Let’s talk games.</h3>
 
 <p align="center">
