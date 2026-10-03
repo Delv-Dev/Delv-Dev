@@ -14,7 +14,7 @@
     <td width="50%" valign="top">
       <h3>Room for One More</h3>
       <a href="https://maximillian520.itch.io/room-for-one-more">
-        <img src="assets/RoomForOneMore.gif" width="400" alt="Room for One More gameplay">
+        <img src="./RoomForOneMore.gif" width="400" alt="Room for One More gameplay">
       </a>
       <p>Furnish a grandmother’s room while managing limited space, a tight budget, and growing requests.</p>
       <p><strong>Tools:</strong> Unity · <strong>Duration:</strong> 7 days</p>
@@ -23,7 +23,7 @@
     <td width="50%" valign="top">
       <h3>Carccident</h3>
       <a href="https://natookie.itch.io/carccident">
-        <img src="assets/Carccident.gif" width="400" alt="Carccident gameplay">
+        <img src="./Carccident.gif" width="400" alt="Carccident gameplay">
       </a>
       <p>Control traffic lights and prevent collisions as impatient drivers threaten to run red lights.</p>
       <p><strong>Tools:</strong> Unity · <strong>Duration:</strong> 5 days</p>
@@ -34,7 +34,7 @@
     <td width="50%" valign="top">
       <h3>A.I.D</h3>
       <a href="https://dupow.itch.io/aid">
-        <img src="assets/AID-gameplay(1).gif" width="400" alt="A.I.D gameplay">
+        <img src="./AID-gameplay.gif" width="400" alt="A.I.D gameplay">
       </a>
       <p>Defend a city against a multi-phase boss while managing energy and coordinating with a support drone.</p>
       <p><strong>Tools:</strong> Unity · <strong>Duration:</strong> 5 days*</p>
@@ -43,7 +43,7 @@
     <td width="50%" valign="top">
       <h3>Butt Pressure</h3>
       <a href="https://dupow.itch.io/butt-pressure">
-        <img src="assets/ButtPressure.gif" width="400" alt="Butt Pressure gameplay">
+        <img src="./ButtPressure.gif" width="400" alt="Butt Pressure gameplay">
       </a>
       <p>A game featuring minigame challenges and a poop meter. I contributed to both mechanics and sourced fonts and SFX.</p>
       <p><strong>Tools:</strong> Unity · <strong>Duration:</strong> 4 days</p>
